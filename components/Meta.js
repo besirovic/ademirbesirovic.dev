@@ -9,7 +9,7 @@ const AppHead = () => (
 		<meta name="description" content="" />
 		<meta name="author" content="Ademir Besirovic <ademir.besirovic1996@gmail.com>" />
 		<meta name="viewport" content="initial-scale=1.0, width=device-width" key="viewport" />
-		<link rel="shortcut icon" type="image/jpg" href="./static/me.jpg"/>
+		<link rel="shortcut icon" type="image/jpg" href="./static/me.png"/>
 
 	</Head>
 );
